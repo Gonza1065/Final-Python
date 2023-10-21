@@ -64,3 +64,6 @@ python manage.py runserver
 1. Fork del repositorio en GitHub.
 2. Crea una nueva rama para tus cambios.
 3. Realiza tus cambios y realiza un pull request en el repositorio original.
+
+## Funcionamiento de la pagina (video)
+https://youtu.be/4tpqqCbeMLU
